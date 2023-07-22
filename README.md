@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 🌐 <b>Portfolio & LinkedIn</b>
 <p>You can check out my recent projects and work on my 
-<a href="https://felipefigueiredodev.vercel.app target="_blank">portfolio</a>. For a more detailed look at my professional background and experience, feel free to connect with me on <a href="https://www.linkedin.com/in/fjnfigueiredo target="_blank">LinkedIn</a>.
+<a href="https://felipefigueiredodev.vercel.app" target="_blank">portfolio</a>. For a more detailed look at my professional background and experience, feel free to connect with me on <a href="https://www.linkedin.com/in/fjnfigueiredo/" target="_blank">LinkedIn</a>.
 
 🤝 <b>Collaborations</b>
 <p>I'm always eager to collaborate on exciting projects and contribute to the open-source community. If you have any cool projects or ideas, don't hesitate to reach out to me!
@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 <p>If you have any questions related to web development, React.js, or any other technologies I've mentioned, I'm more than happy to help and share my knowledge.
 
 📫 <b>How to Reach Me</b>
-<p>You can get in touch with me through my <a href="https://www.linkedin.com/in/fjnfigueiredo target="_blank">LinkedIn</a> profile or drop me an email at fjnfigueiredo@gmail.com. I'm looking forward to hearing from you!
+<p>You can get in touch with me through my <a href="https://www.linkedin.com/in/fjnfigueiredo/" target="_blank">LinkedIn</a> profile or drop me an email at fjnfigueiredo@gmail.com. I'm looking forward to hearing from you!
 
 😄 <b>Fun Fact</b>
 <p>When I'm not coding or diving into the world of web development, you can find me exploring nature or gaming with friends.
