@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 <p>If you have any questions related to web development, React.js, or any other technologies I've mentioned, I'm more than happy to help and share my knowledge.
 
 📫 <b>How to Reach Me</b>
-<p>You can get in touch with me through my <a href="https://www.linkedin.com/in/fjnfigueiredo/" target="_blank">LinkedIn</a> profile or drop me an email at fjnfigueiredo@gmail.com. I'm looking forward to hearing from you!
+<p>You can get in touch with me through my <a href="https://www.linkedin.com/in/fjnfigueiredo/" target="_blank">LinkedIn</a> profile or drop me an email at <a href="mailto:fjnfigueiredo@gmail.com">fjnfigueiredo@gmail.com</a>. I'm looking forward to hearing from you!
 
 😄 <b>Fun Fact</b>
 <p>When I'm not coding or diving into the world of web development, you can find me exploring nature or gaming with friends.
