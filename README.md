@@ -1,7 +1,7 @@
 <h1>Hi there👋</h1>
 
 Welcome to my GitHub profile!
-<p>I'm <b><a href="https://felipefigueiredodev.vercel.app" target="_blank">Felipe Figueiredo</a></b>, a passionate Developer with over 05 years of professional IT experience. I'm thrilled to have you here and share my journey in the world of web development.
+<p>I'm <b><a href="https://felipefigueiredodev.vercel.app" target="_blank">Felipe Figueiredo</a></b>, a passionate Developer with over 06 years of professional IT experience. I'm thrilled to have you here and share my journey in the world of web development.
 
 🚀 <b>About Me</b>
 <p>I love crafting beautiful and responsive web interfaces using cutting-edge technologies. My expertise lies in React.js, Angular, JavaScript, Next.js, and Tailwind CSS. I'm also well-versed in TypeScript, Prisma, Mongo, PHP, Testing(Jest/Vitest/Katalon), Node.js, HTML5, Modern CSS frameworks, and more.</p>
